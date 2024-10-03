@@ -991,7 +991,7 @@ Page {
         MSplitView {
             id: topBottomSplit
             Layout.fillHeight: true
-            width: parent.width
+            Layout.fillWidth: true
 
             orientation: Qt.Vertical
 
